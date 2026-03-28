@@ -1,0 +1,5 @@
+redis:
+  sentinel:
+    master: mymaster
+    nodes: 127.0.0.1:26379
+  keyspace: "test-space"
