@@ -22,7 +22,7 @@
     <maven.compiler.target>${java.version}</maven.compiler.target>
     <ddm-ceph-client.version>1.0.0-SNAPSHOT</ddm-ceph-client.version>
     <ddm-idm-client.version>1.0.0-SNAPSHOT</ddm-idm-client.version>
-    <guava.version>33.1.0-jre</guava.version>
+    <guava.version>33.7.1-jre</guava.version>
     <embedded-redis.version>1.4.3</embedded-redis.version>
     <spring-cloud.version>2025.0.0</spring-cloud.version>
     <wiremock.version>3.13.1</wiremock.version>
